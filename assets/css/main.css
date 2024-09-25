@@ -2727,7 +2727,7 @@ input, select, textarea {
 				section.special header.major h2:after, article.special header.major h2:after {
 					margin-left: auto;
 					margin-right: auto;
-					padding: 50%;
+					
 				}
 
 		header.major p {
